@@ -1,3 +1,10 @@
+Reikalavimai:
+
+php 8 arba naujesnis
+
+composer (turbut be koks ne super senas. asmeniskai naudojau 2.0.9)
+
+
 Paleidimas:
 
 git clone https://github.com/ngreed/homework.git
@@ -9,6 +16,7 @@ composer install
 php bin/phpunit
 
 php bin/console app:shipping-parse-data-from-file input.txt
+
 
 Komentarai:
 
